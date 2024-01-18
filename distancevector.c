@@ -39,3 +39,8 @@ printf("\t\nnode %d via %d Distance%d", j + 1, temp[i][j] + 1, dist[i][j]);
 }
 printf("\n\n");
 }
+\\\
+0 5
+5 0
+  \\\
+
